@@ -13,19 +13,12 @@
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "614dc7f07b7653c2",
-        "username": "first123",
-        "password": "pass456",
+        "username": "pulodadu",
+        "password": "pass1234",
         "expirydate": "31-12-2025",
-        "Allowoffline": false
-},
-{
-        "device_id": "d279dbf1a8c7a15b",
-        "username": "uwon123",
-        "password": "main456",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-}
+        "Allowoffline": true
+    }
 ]
 
