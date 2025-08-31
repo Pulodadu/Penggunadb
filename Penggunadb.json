@@ -12,5 +12,13 @@
     "password": "user1234",
     "expiresAt": "2026-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "614dc7f07b7653c2",
+    "username": "pulodadu",
+    "password": "pass1234",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
   }
+
 ]
